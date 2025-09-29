@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Canva Connect API Demo - Minimal Version",
   "engines": {
-    "node": "22.x"
+    "node": "20.x"
   },
   "scripts": {
     "build": "cd frontend && npm install && webpack --config webpack.config.js && cp public/index.html dist/",
